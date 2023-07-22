@@ -1,0 +1,16 @@
+1 - Data: dia/mês/ano da medida dos dados 
+
+2 - Local: Cidades estudadas
+
+3 - Temperatura:Sendo expressa em graus Celsius (°C), a temperatura se refere à medição da intensidade térmica do ar ou da superfície terrestre em um determinado momento e local. É comumente usada para descrever as condições climáticas e varia ao longo do dia, estação do ano e localização geográfica.
+
+Os valores de temperatura podem variar de acordo com a localidade e a época do ano. Por exemplo, temperaturas mais altas indicam calor, enquanto temperaturas mais baixas indicam frio. 
+
+4 - Umidade: Representa a umidade relativa do ar, expressa em percentagem. A umidade relativa do ar é uma medida que indica a quantidade de vapor de água presente no ar em relação à quantidade máxima que o ar poderia conter na mesma temperatura.
+
+A umidade relativa do ar é influenciada pela quantidade de vapor de água presente na atmosfera. Quanto maior a quantidade de vapor de água em relação à capacidade máxima do ar de conter umidade, maior será a umidade relativa.
+
+5 - Precipitação: representa a quantidade de chuva registrada em milímetros para cada dia e local específico. A precipitação é uma medida do volume de água proveniente da chuva, neve, granizo ou qualquer outra forma de umidade que caia na área durante um determinado período de tempo.
+
+A coluna "Precipitação (mm)" indica a quantidade de chuva acumulada em milímetros para o respectivo dia e local. Por exemplo, se o valor for 0, significa que não houve chuva naquele dia específico. Se o valor for maior que 0, indica a quantidade de chuva medida em milímetros. Valores fracionários, como 0,5 ou 1,5, representam quantidades menores de chuva.
+

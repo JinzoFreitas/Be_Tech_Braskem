@@ -1,0 +1,41 @@
+Data,Local,Temperatura (Celsius),Umidade (%),Precipitacao (mm)
+01/12/23,Sao Paulo,30,65,0
+01/12/23,Rio de Janeiro,32,68,0
+01/12/23,Brasilia,28,70,1
+01/12/23,Salvador,31,75,0
+01/12/23,Recife,32,78,0.5
+02/12/23,Sao Paulo,29,64,0
+02/12/23,Rio de Janeiro,31,67,0
+02/12/23,Brasilia,27,69,0.5
+02/12/23,Salvador,30,74,0
+02/12/23,Recife,31,76,1
+03/12/23,Sao Paulo,28,63,0
+03/12/23,Rio de Janeiro,30,66,0
+03/12/23,Brasilia,26,68,0
+03/12/23,Salvador,29,73,0
+03/12/23,Recife,30,75,0.5
+04/12/23,Sao Paulo,31,65,0
+04/12/23,Rio de Janeiro,33,68,0
+04/12/23,Brasilia,29,70,1
+04/12/23,Salvador,32,75,0
+04/12/23,Recife,33,77,1.5
+05/12/23,Sao Paulo,30,64,0
+05/12/23,Rio de Janeiro,32,67,0
+05/12/23,Brasilia,28,69,0
+05/12/23,Salvador,31,74,0
+05/12/23,Recife,32,76,0.5
+06/12/23,Sao Paulo,29,63,0
+06/12/23,Rio de Janeiro,31,66,0
+06/12/23,Brasilia,27,68,0
+06/12/23,Salvador,30,73,0
+06/12/23,Recife,31,75,1
+07/12/23,Sao Paulo,28,62,0
+07/12/23,Rio de Janeiro,30,65,0
+07/12/23,Brasilia,26,67,0
+07/12/23,Salvador,29,72,0
+07/12/23,Recife,30,74,0.5
+08/12/23,Sao Paulo,31,61,0
+08/12/23,Rio de Janeiro,33,64,0
+08/12/23,Brasilia,29,66,0
+08/12/23,Salvador,32,71,0
+08/12/23,Recife,33,73,1

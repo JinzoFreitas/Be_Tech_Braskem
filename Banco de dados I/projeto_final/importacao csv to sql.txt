@@ -1,0 +1,22 @@
+CREATE TABLE gastos_corporativos.gastos(
+	id_compra serial,
+	nome_fornecedor varchar(200),
+	tipo_compra varchar(7),
+	ano real,
+	valor real,
+	nome_presidente varchar(10),
+	mes integer,
+	data_compra char(6),
+	valor_corrigido real
+);
+
+-- populando tabela com os dados csv
+
+COPY gastos_corporativos.gastos
+FROM 'caminho\do\arquivo.csv'
+WITH(
+	FORMAT csv,
+	DELIMITER ',',
+	HEADER,
+	NULL 'N/A'
+);
